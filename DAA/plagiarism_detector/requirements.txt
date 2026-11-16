@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas
+python-docx
+pypdf
+requests
+beautifulsoup4
+ddgs
